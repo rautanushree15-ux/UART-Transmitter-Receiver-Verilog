@@ -243,6 +243,7 @@ Through this project, I gained practical knowledge of:
 - Testbench development and simulation verification.
 - Debugging and verification using Vivado waveform analysis.
 
+
 ## 13. Conclusion
 
 The UART Transmitter and Receiver project was successfully designed and simulated using Verilog HDL.
@@ -257,8 +258,15 @@ This project helped strengthen my understanding of digital design, serial commun
 
 ## Author
 
-**Anushree Prashanth Raut**
+**Anushree Raut**
 
 B.Tech – Electronics and Telecommunication Engineering
 
 GitHub: [rautanushree15-ux](https://github.com/rautanushree15-ux)
+
+---
+
+## ⭐ Support the Project
+
+If you find this project useful or interesting, consider giving the repository a star ⭐.
+
