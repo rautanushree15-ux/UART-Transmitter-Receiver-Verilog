@@ -265,7 +265,9 @@ B.Tech – Electronics and Telecommunication Engineering
 GitHub: [rautanushree15-ux](https://github.com/rautanushree15-ux)
 
 ---
+## License
 
+This project is licensed under the [MIT License](LICENSE).
 ## ⭐ Support the Project
 
 If you find this project useful or interesting, consider giving the repository a star ⭐.
